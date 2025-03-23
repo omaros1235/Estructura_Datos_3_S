@@ -45,8 +45,8 @@ public class CatalogoRevistas
     public void MostrarMenu()
     {
         Console.WriteLine("Catálogo de Revistas");
-        Console.WriteLine("1. Buscar título (Iterativo)");
-        Console.WriteLine("2. Buscar título (Recursivo)");
+        Console.WriteLine("1. Buscar título (iterativo)");
+        Console.WriteLine("2. Buscar título (recursivo)");
         Console.WriteLine("3. Salir");
         Console.Write("Seleccione una opción: ");
     }

@@ -1,0 +1,15 @@
+C:\Estructura_Datos_3_S\semana 14\bin\Debug\net9.0\semana 14.exe
+C:\Estructura_Datos_3_S\semana 14\bin\Debug\net9.0\semana 14.deps.json
+C:\Estructura_Datos_3_S\semana 14\bin\Debug\net9.0\semana 14.runtimeconfig.json
+C:\Estructura_Datos_3_S\semana 14\bin\Debug\net9.0\semana 14.dll
+C:\Estructura_Datos_3_S\semana 14\bin\Debug\net9.0\semana 14.pdb
+C:\Estructura_Datos_3_S\semana 14\obj\Debug\net9.0\semana 14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estructura_Datos_3_S\semana 14\obj\Debug\net9.0\semana 14.AssemblyInfoInputs.cache
+C:\Estructura_Datos_3_S\semana 14\obj\Debug\net9.0\semana 14.AssemblyInfo.cs
+C:\Estructura_Datos_3_S\semana 14\obj\Debug\net9.0\semana 14.csproj.CoreCompileInputs.cache
+C:\Estructura_Datos_3_S\semana 14\obj\Debug\net9.0\semana 14.sourcelink.json
+C:\Estructura_Datos_3_S\semana 14\obj\Debug\net9.0\semana 14.dll
+C:\Estructura_Datos_3_S\semana 14\obj\Debug\net9.0\refint\semana 14.dll
+C:\Estructura_Datos_3_S\semana 14\obj\Debug\net9.0\semana 14.pdb
+C:\Estructura_Datos_3_S\semana 14\obj\Debug\net9.0\semana 14.genruntimeconfig.cache
+C:\Estructura_Datos_3_S\semana 14\obj\Debug\net9.0\ref\semana 14.dll
