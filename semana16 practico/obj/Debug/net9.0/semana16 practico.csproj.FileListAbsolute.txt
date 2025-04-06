@@ -1,0 +1,15 @@
+C:\Estructura_Datos_3_S\semana16 practico\bin\Debug\net9.0\semana16 practico.exe
+C:\Estructura_Datos_3_S\semana16 practico\bin\Debug\net9.0\semana16 practico.deps.json
+C:\Estructura_Datos_3_S\semana16 practico\bin\Debug\net9.0\semana16 practico.runtimeconfig.json
+C:\Estructura_Datos_3_S\semana16 practico\bin\Debug\net9.0\semana16 practico.dll
+C:\Estructura_Datos_3_S\semana16 practico\bin\Debug\net9.0\semana16 practico.pdb
+C:\Estructura_Datos_3_S\semana16 practico\obj\Debug\net9.0\semana16 practico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estructura_Datos_3_S\semana16 practico\obj\Debug\net9.0\semana16 practico.AssemblyInfoInputs.cache
+C:\Estructura_Datos_3_S\semana16 practico\obj\Debug\net9.0\semana16 practico.AssemblyInfo.cs
+C:\Estructura_Datos_3_S\semana16 practico\obj\Debug\net9.0\semana16 practico.csproj.CoreCompileInputs.cache
+C:\Estructura_Datos_3_S\semana16 practico\obj\Debug\net9.0\semana16 practico.sourcelink.json
+C:\Estructura_Datos_3_S\semana16 practico\obj\Debug\net9.0\semana16 practico.dll
+C:\Estructura_Datos_3_S\semana16 practico\obj\Debug\net9.0\refint\semana16 practico.dll
+C:\Estructura_Datos_3_S\semana16 practico\obj\Debug\net9.0\semana16 practico.pdb
+C:\Estructura_Datos_3_S\semana16 practico\obj\Debug\net9.0\semana16 practico.genruntimeconfig.cache
+C:\Estructura_Datos_3_S\semana16 practico\obj\Debug\net9.0\ref\semana16 practico.dll
