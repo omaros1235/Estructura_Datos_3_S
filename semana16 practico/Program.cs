@@ -110,6 +110,6 @@ class Programa
         Console.Write("Ciudad de destino: ");
         string destino = Console.ReadLine();
 
-        grafo.Dijkstra(origen, destino);
-    }
+        grafo.Dijkstra(origen, destino);    
+    }     
 }
